@@ -1,0 +1,16 @@
+.section-container
+{
+	font-family: 'alphafridgemagnets_regular';
+	margin: 0 auto;
+	width: 300px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+#form-button
+{
+    margin-top: 20px;
+}

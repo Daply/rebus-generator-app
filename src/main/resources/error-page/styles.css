@@ -1,0 +1,32 @@
+#header
+{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	background-color:#b3fa89; 
+	height: 60px;
+}
+
+#footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#b3fa89; 
+    margin-bottom: 0;
+    height: 100px;
+    z-index: 1;
+}
+
+#email
+{
+    margin-right: 50px;
+}
+
+#github
+{
+    margin-left: 50px;
+}

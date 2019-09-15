@@ -1,0 +1,17 @@
+<div class="section-container">
+  <form name="form" (submit)="login()">
+    <div>
+        <label for="username">Username</label>
+        <input class="form-control word-input" type="text" name="username" 
+        [(ngModel)]="model.username" size="100" required />
+    </div>
+    <div>
+        <label for="password">Password</label>
+        <input class="form-control word-input" type="password" name="password" 
+        [(ngModel)]="model.password" size="100" required />
+    </div>
+    <div>
+        <button class="btn btn-lg btn-primary" id="form-button">Login</button>
+    </div>
+  </form>
+</div>

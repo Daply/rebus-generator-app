@@ -1,0 +1,60 @@
+
+.back-container
+{
+    margin: 0 auto;
+	width: 900px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.section-container
+{
+	font-family: 'alphafridgemagnets_regular';
+	margin: 0 auto;
+	width: 900px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#rebus
+{
+	color: rgb(236, 25, 236);
+}
+
+.word-input 
+{
+	width: 300px;
+}
+
+.word-block 
+{
+	float: left;
+}
+
+.lang-block 
+{
+	width: 75px;
+	margin-left: 10px;
+}
+
+.form-block
+{
+	float: left;
+	margin-left: 10px;
+}
+
+#generate-button-block
+{
+	float: left;
+	margin-left: 10px;
+}
+
+#upload-images-button
+{
+	margin-left: 10px;
+}

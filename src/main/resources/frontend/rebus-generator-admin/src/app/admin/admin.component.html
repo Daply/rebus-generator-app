@@ -1,0 +1,28 @@
+<div class="back-container">
+	<a href="#" routerLink="/home"><p id="rebus">{{home}}</p></a>
+</div>
+<div class="section-container">
+      
+  <div class="word-block">
+    <input #newword type="text" class="form-control word-input" placeholder="Type what is on the image" size="100">
+  </div>
+    
+  <div class="form-block">
+    <form>
+      <div class="custom-file">
+        <input type="file" class="custom-file-input" id="customFile"
+                (change)="onFileChange($event)">
+        <label class="custom-file-label" for="customFile">{{filename}}</label>
+      </div>
+    </form>
+  </div>
+  
+  <select #newwordlang class="lang-block browser-default custom-select">
+    <option [value]="lang" *ngFor="let lang of languages">{{lang}}</option>
+  </select>
+
+  <div id="upload-images-button">
+    <button (click)="uploadImage()" class="btn btn-lg btn-primary">Upload images</button>
+  </div>
+
+  </div>
