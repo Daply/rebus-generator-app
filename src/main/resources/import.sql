@@ -11,7 +11,7 @@ INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_ty
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('6', 1, '6.png', 1);
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('7', 1, '7.png', 1);
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('8', 1, '8.png', 1);
-INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('9', 1, '9.png', 1)
+INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('9', 1, '9.png', 1);
 
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('a', 1, 'a_en.png', 1);
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('b', 1, 'b_en.png', 1);
@@ -129,6 +129,7 @@ INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_ty
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('train', 1, 'train.png', 0);
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('umbrella', 1, 'umbrella.png', 0);
 INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('violin', 1, 'violin.png', 0);
+INSERT INTO rebus_image_puzzle (image_word, word_lang, image_name, image_word_type) VALUES ('plus', 1, 'plus.png', 1);
 
 INSERT INTO syllable (syllable) VALUES ('ax');
 INSERT INTO syllable (syllable) VALUES ('xe');

@@ -462,7 +462,7 @@ public class RebusSequenceGenerator {
 						// if database word matches common character but given word is not 
 						// make an insert character in database word
 						if (databaseWord.charAt(indexOfDatabaseWord) == commonCharsSequence.get(indexOfList)) {
-							rebusSequence.push("[middle insert] " + indexOfDatabaseWord + "=" + word.charAt(indexOfWord));
+							rebusSequence.push("[middle insert] " + (indexOfDatabaseWord+1) + "=" + word.charAt(indexOfWord));
 							indexOfWord++;
 						}
 						// if given word matches common character but database word is not 

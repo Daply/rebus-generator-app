@@ -1,6 +1,3 @@
-<div class="back-container">
-	<a href="#" routerLink="/home"><p id="rebus">{{home}}</p></a>
-</div>
 <div class="section-container">
       
   <div class="word-block">
@@ -25,4 +22,12 @@
     <button (click)="uploadImage()" class="btn btn-lg btn-primary">Upload images</button>
   </div>
 
+  </div>
+
+  
+  <div class="middle-container" *ngIf="uploadMessage && uploadingImageStatus==1">
+    <p>Uploaded successfully</p>
+  </div>
+  <div class="middle-container" *ngIf="!uploadMessage && uploadingImageStatus==1">
+    <p class="sorry">Something went wrong</p>
   </div>

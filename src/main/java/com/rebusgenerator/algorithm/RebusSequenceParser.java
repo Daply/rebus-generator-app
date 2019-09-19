@@ -90,6 +90,7 @@ public class RebusSequenceParser {
 				throw new ParserException("query in rebus sequence is null");
 			if (query.equals("+")) {
 				imagesGroups.add(processWordGroupByLayers(imagesOfOneGroup, lang));
+				imagesGroups.add(processPlus(lang));
 				imagesOfOneGroup = new ArrayList<String>();
 			}
 			else {
@@ -324,6 +325,17 @@ public class RebusSequenceParser {
     	}
 
 		return imageNames;
+	}
+	
+	public List<List<String>> processPlus(String lang) {
+		List<List<String>> plusGroup = new ArrayList<List<String>>();
+		List<String> imagesOfOneGroup = new ArrayList<String>();
+		String plusImage = rebusImagePuzzleService
+				.getImageBySpecifiedWordAndLanguage("plus", lang);
+		this.allImagesNeededForRebus.add(plusImage);
+		imagesOfOneGroup.add(plusImage);
+		plusGroup.add(imagesOfOneGroup);
+		return plusGroup;
 	}
 	
 }

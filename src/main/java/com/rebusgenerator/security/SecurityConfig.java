@@ -49,8 +49,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 		     "/info/*",
                 		     "/not_found")
                         .permitAll()
-                .antMatchers("/api/new/image",
-                		     "/admin")
+                .antMatchers("/admin")
                         .authenticated()  
             .and()
                 .formLogin()

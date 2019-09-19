@@ -36,11 +36,12 @@ export class AdminService {
   }
 
   uploadNewImage(data) {
-    const headers = new HttpHeaders({
-      'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': this.baseUrl,
-       Authorization: 'Basic ' + sessionStorage.getItem('auth')});
-    return this.httpClient.post<any>(this.baseUrl + '/api/new/image', data, {headers});
+    // const headers = new HttpHeaders({
+    //   'Content-Type': 'application/json',
+    //   'Access-Control-Allow-Origin': this.baseUrl,
+    //    Authorization: 'Basic ' + sessionStorage.getItem('auth')});
+    // return this.httpClient.post<any>(this.baseUrl + '/api/new/image', data, {headers});
+    return this.httpClient.post<any>(this.baseUrl + '/api/new/image', data);
   }
 
 }

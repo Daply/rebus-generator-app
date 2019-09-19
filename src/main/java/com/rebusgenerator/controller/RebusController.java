@@ -146,7 +146,8 @@ public class RebusController {
     public boolean uploadNewWordImageForReview(@ModelAttribute KeyWordImage keyWordImage) throws IOException {
 		LOGGER.info("Uploading new word image for future review...");
 		try {
-			return fileProcessor.saveUploadedFileForReview(keyWordImage.getWord(), keyWordImage.getLang(), keyWordImage.getFile());
+			boolean uploaded = fileProcessor.saveUploadedFileForReview(keyWordImage.getWord(), keyWordImage.getLang(), keyWordImage.getFile());
+			return uploaded;
 		} catch (FileLoadingException e) {
 			e.printStackTrace();
 		}
@@ -166,6 +167,7 @@ public class RebusController {
             produces = "application/json")
     public boolean uploadNewWordImage(@ModelAttribute KeyWordImage keyWordImage) throws IOException {
 		LOGGER.info("Uploading new word image...");
+
 		try {
 			fileProcessor.uploadFile(keyWordImage.getWord(), keyWordImage.getLang(), keyWordImage.getFile());
 			rebusProcessor.saveNewWordAndItsAssociatedImage(keyWordImage.getWord(), keyWordImage.getLang());

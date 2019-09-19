@@ -17,6 +17,10 @@ export class AdminComponent implements OnInit {
   file: File;
   filename: string;
   uploadMessage: string;
+  // status of uploading
+  // 0 - no uploading process
+  // 1 - uploaded
+  uploadingImageStatus: number;
 
   languages: string[] = ["en"];
 
@@ -46,7 +50,12 @@ export class AdminComponent implements OnInit {
       this.adminService.uploadNewImage(formData).subscribe(
         (res) => {
           this.uploadMessage = res;
+          this.uploadingImageStatus = 1;
           this.clearValues();
+          setTimeout(function() {
+            this.uploadMessage = false;
+            this.uploadingImageStatus = 0;
+          }.bind(this), 5000);
         }
       );
     }

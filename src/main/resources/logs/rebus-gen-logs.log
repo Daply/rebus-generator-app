@@ -5112,3 +5112,864 @@
 15-09-2019 02:06:28 INFO  ImageProcessor:94 - Final image processing...
 15-09-2019 02:06:47 INFO  ImageProcessor:133 - Final image processed successfully
 15-09-2019 02:06:47 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+18-09-2019 21:20:10 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 21:20:14 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 21:20:50 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 21:21:31 INFO  RebusController:168 - Uploading new word image...
+18-09-2019 21:21:31 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 21:21:31 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 21:23:32 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 21:23:48 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 21:24:11 INFO  RebusController:168 - Uploading new word image...
+18-09-2019 21:24:11 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 21:24:11 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 21:25:35 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 21:25:50 INFO  RebusController:147 - Uploading new word image for future review...
+18-09-2019 21:25:50 INFO  FileProcessor:61 - Saving uploaded file for review...
+18-09-2019 21:25:50 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 21:25:50 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 21:25:50 INFO  FileProcessor:93 - Uploaded file saved for review
+18-09-2019 22:12:45 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:17:21 INFO  RebusController:147 - Uploading new word image for future review...
+18-09-2019 22:17:21 INFO  FileProcessor:61 - Saving uploaded file for review...
+18-09-2019 22:17:21 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 22:17:21 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 22:17:21 INFO  FileProcessor:93 - Uploaded file saved for review
+18-09-2019 22:18:56 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:19:19 INFO  RebusController:147 - Uploading new word image for future review...
+18-09-2019 22:19:34 INFO  FileProcessor:61 - Saving uploaded file for review...
+18-09-2019 22:19:34 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 22:19:34 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 22:19:34 INFO  FileProcessor:93 - Uploaded file saved for review
+18-09-2019 22:21:28 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:22:13 INFO  RebusController:147 - Uploading new word image for future review...
+18-09-2019 22:22:26 INFO  FileProcessor:61 - Saving uploaded file for review...
+18-09-2019 22:22:37 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 22:22:44 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 22:22:50 INFO  FileProcessor:93 - Uploaded file saved for review
+18-09-2019 22:25:37 INFO  RebusController:147 - Uploading new word image for future review...
+18-09-2019 22:25:41 INFO  FileProcessor:61 - Saving uploaded file for review...
+18-09-2019 22:25:41 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 22:25:41 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 22:25:41 INFO  FileProcessor:93 - Uploaded file saved for review
+18-09-2019 22:38:52 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:48:50 INFO  RebusController:169 - Uploading new word image...
+18-09-2019 22:48:50 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 22:48:50 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 22:53:45 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:54:03 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:54:28 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 22:54:44 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 23:09:29 INFO  RebusController:169 - Uploading new word image...
+18-09-2019 23:14:24 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:14:24 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 23:20:56 INFO  RebusController:169 - Uploading new word image...
+18-09-2019 23:20:57 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 23:21:06 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:21:06 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 23:21:37 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 23:21:41 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 23:26:32 INFO  RebusController:67 - Getting all possible languages...
+18-09-2019 23:26:58 INFO  RebusController:169 - Uploading new word image...
+18-09-2019 23:26:58 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:26:58 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 23:46:45 INFO  RebusController:68 - Getting all possible languages...
+18-09-2019 23:47:10 INFO  RebusController:68 - Getting all possible languages...
+18-09-2019 23:47:34 INFO  RebusController:68 - Getting all possible languages...
+18-09-2019 23:47:59 INFO  RebusController:68 - Getting all possible languages...
+18-09-2019 23:50:11 INFO  RebusController:170 - Uploading new word image...
+18-09-2019 23:50:11 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:50:11 ERROR FileProcessor:114 - Some of arguments are null!
+18-09-2019 23:52:54 INFO  RebusController:68 - Getting all possible languages...
+18-09-2019 23:53:13 INFO  RebusController:170 - Uploading new word image...
+18-09-2019 23:53:13 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:53:13 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 23:53:13 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 23:53:15 INFO  FileProcessor:140 - File uploaded successfully
+18-09-2019 23:53:58 INFO  RebusController:170 - Uploading new word image...
+18-09-2019 23:53:58 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:53:58 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 23:53:58 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 23:53:59 INFO  FileProcessor:140 - File uploaded successfully
+18-09-2019 23:57:18 INFO  RebusController:170 - Uploading new word image...
+18-09-2019 23:57:18 INFO  FileProcessor:111 - Uploading file...
+18-09-2019 23:57:18 INFO  FileProcessor:161 - Saving uploaded file...
+18-09-2019 23:57:18 INFO  FileProcessor:182 - Uploaded file saved
+18-09-2019 23:57:19 INFO  FileProcessor:140 - File uploaded successfully
+19-09-2019 00:02:54 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:03:52 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:03:55 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:04:35 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:04:49 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:05:44 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:06:18 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:06:40 INFO  RebusController:170 - Uploading new word image...
+19-09-2019 00:06:40 INFO  FileProcessor:111 - Uploading file...
+19-09-2019 00:06:40 INFO  FileProcessor:161 - Saving uploaded file...
+19-09-2019 00:06:40 INFO  FileProcessor:182 - Uploaded file saved
+19-09-2019 00:06:41 INFO  FileProcessor:140 - File uploaded successfully
+19-09-2019 00:07:27 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:08:04 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:08:12 INFO  RebusController:170 - Uploading new word image...
+19-09-2019 00:08:12 INFO  FileProcessor:111 - Uploading file...
+19-09-2019 00:08:12 INFO  FileProcessor:161 - Saving uploaded file...
+19-09-2019 00:08:12 INFO  FileProcessor:182 - Uploaded file saved
+19-09-2019 00:08:13 INFO  FileProcessor:140 - File uploaded successfully
+19-09-2019 00:09:07 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:13:03 ERROR ImageProcessor:274 - Images directory does not exist!
+19-09-2019 00:13:03 INFO  ImageProcessor:94 - Final image processing...
+19-09-2019 00:13:03 ERROR ImageProcessor:98 - Some of arguments are null!
+19-09-2019 00:13:03 INFO  ImageProcessor:94 - Final image processing...
+19-09-2019 00:13:03 ERROR ImageProcessor:98 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR ImageProcessor:261 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR ImageProcessor:151 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR ImageProcessor:261 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR ImageProcessor:197 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR ImageProcessor:151 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR ImageProcessor:197 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:518 - Some of arguments are null!
+19-09-2019 00:13:03 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 00:13:03 WARN  RebusSequenceGenerator:83 - The word has spaces
+19-09-2019 00:13:03 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:73 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:263 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:391 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:194 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:194 - Some of arguments are null!
+19-09-2019 00:13:03 INFO  RebusSequenceGenerator:348 - Creation of queries chain started...
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:351 - The node in restoreChainOfWordParts method is null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:391 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:154 - The word in divideWordOnParts method is null!
+19-09-2019 00:13:03 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:88 - The databaseWords is empty, it is impossible to create a rebus!
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:263 - Some of arguments are null!
+19-09-2019 00:13:03 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 00:13:03 ERROR RebusSequenceGenerator:73 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceParser:168 - Some of arguments are null!
+19-09-2019 00:13:03 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 00:13:03 ERROR RebusSequenceParser:77 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceParser:120 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceParser:245 - Some of arguments are null!
+19-09-2019 00:13:03 ERROR RebusSequenceParser:196 - Some of arguments are null!
+19-09-2019 00:13:33 INFO  FileProcessor:161 - Saving uploaded file...
+19-09-2019 00:13:33 ERROR FileProcessor:164 - Some of arguments are null!
+19-09-2019 00:13:33 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 00:13:33 ERROR FileProcessor:201 - Some of arguments are null!
+19-09-2019 00:13:34 INFO  FileProcessor:239 - Downloading file test.png to directory test
+19-09-2019 00:13:34 INFO  FileProcessor:260 - File test.png downloaded to directory test
+19-09-2019 00:13:34 INFO  FileProcessor:111 - Uploading file...
+19-09-2019 00:13:34 ERROR FileProcessor:114 - Some of arguments are null!
+19-09-2019 00:13:34 INFO  FileProcessor:239 - Downloading file null to directory null
+19-09-2019 00:13:34 ERROR FileProcessor:242 - Some of arguments are null!
+19-09-2019 00:13:34 INFO  FileProcessor:61 - Saving uploaded file for review...
+19-09-2019 00:13:34 ERROR FileProcessor:64 - Some of arguments are null!
+19-09-2019 00:13:36 INFO  RebusController:95 - Getting existing rebus...
+19-09-2019 00:13:36 INFO  RebusController:112 - Generating rebus query...
+19-09-2019 00:13:36 INFO  RebusController:81 - Getting all words of specified language...
+19-09-2019 00:52:52 INFO  RebusController:68 - Getting all possible languages...
+19-09-2019 00:54:06 INFO  RebusController:112 - Generating rebus query...
+19-09-2019 00:54:06 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 00:54:06 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 00:54:06 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 00:54:06 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 00:54:06 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 00:54:07 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 00:54:08 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 00:54:08 INFO  ImageProcessor:94 - Final image processing...
+19-09-2019 00:54:18 INFO  ImageProcessor:133 - Final image processed successfully
+19-09-2019 00:54:18 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 00:57:55 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 00:58:01 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 00:58:01 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 00:58:01 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 00:58:01 INFO  RebusSequenceParser:104 - Rebus sequence parsed successfully
+19-09-2019 00:58:01 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 00:58:01 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 00:58:02 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 00:58:03 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 00:58:03 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 00:58:03 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 00:58:03 ERROR ImageProcessor:209 - The names of images list is empty!
+19-09-2019 01:00:19 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 01:00:24 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 01:00:24 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 01:00:24 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 01:00:24 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 01:00:24 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 01:00:24 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:25 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:26 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 01:00:26 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 01:00:26 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 01:00:26 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 01:00:34 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 01:00:34 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 01:00:34 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 01:00:34 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 01:00:34 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 01:00:34 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:35 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:36 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 01:00:36 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 01:00:36 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 01:00:36 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 01:00:40 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 01:00:40 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 01:00:40 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 01:00:40 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 01:00:40 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:40 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:41 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:42 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 01:00:42 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 01:00:42 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 01:00:42 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 01:00:53 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 01:00:53 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 01:00:53 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 01:00:53 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 01:00:53 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:53 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:54 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 01:00:55 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 01:00:56 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 01:00:56 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 01:00:56 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 01:00:56 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 01:00:56 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 01:00:56 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 01:00:56 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 07:04:31 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 07:04:35 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:04:35 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:04:35 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:14:57 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 07:15:03 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:15:03 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:15:03 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:15:03 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 07:15:03 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 07:15:03 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:15:04 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:15:04 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 07:15:04 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 07:15:04 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 07:15:05 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 07:15:05 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 07:17:23 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:17:23 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:17:24 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:17:24 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 07:17:24 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 07:17:24 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file plus_en.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File plus_en.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 07:17:25 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 07:17:26 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 07:17:26 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:17:26 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:17:26 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 07:17:26 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 07:17:26 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 07:17:26 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 07:17:26 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 07:17:26 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 07:18:11 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 07:20:10 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:20:10 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:20:11 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:20:11 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 07:20:11 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:11 INFO  FileProcessor:239 - Downloading file plus_en.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File plus_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file 2.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File 2.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file plus_en.png to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:260 - File plus_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:12 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 07:20:13 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 07:20:13 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 07:20:13 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 07:20:13 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 07:20:42 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:20:42 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:20:42 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 07:20:42 INFO  RebusSequenceGenerator:348 - Creation of queries chain started...
+19-09-2019 07:20:42 INFO  RebusSequenceGenerator:132 - Rebus generated successfully
+19-09-2019 07:20:43 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:20:43 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 07:20:43 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 07:20:43 INFO  FileProcessor:239 - Downloading file bat.png to directory baccat_en
+19-09-2019 07:20:43 INFO  FileProcessor:260 - File bat.png downloaded to directory baccat_en
+19-09-2019 07:20:43 INFO  FileProcessor:239 - Downloading file e_en.png to directory baccat_en
+19-09-2019 07:20:43 INFO  FileProcessor:260 - File e_en.png downloaded to directory baccat_en
+19-09-2019 07:20:43 INFO  FileProcessor:239 - Downloading file r_en.png to directory baccat_en
+19-09-2019 07:20:43 INFO  FileProcessor:260 - File r_en.png downloaded to directory baccat_en
+19-09-2019 07:20:43 INFO  FileProcessor:239 - Downloading file 2.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File 2.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file c_en.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File c_en.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file plus_en.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File plus_en.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file front_comma.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File front_comma.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file i_en.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File i_en.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file bat.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File bat.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file back_comma.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File back_comma.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file bat.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File bat.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file e_en.png to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:260 - File e_en.png downloaded to directory baccat_en
+19-09-2019 07:20:44 INFO  FileProcessor:239 - Downloading file r_en.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File r_en.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file 2.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File 2.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file c_en.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File c_en.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file plus_en.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File plus_en.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file front_comma.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File front_comma.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file i_en.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File i_en.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file bat.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File bat.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file back_comma.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File back_comma.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file bat.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File bat.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file back_comma.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File back_comma.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file c_en.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File c_en.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file plus_en.png to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:260 - File plus_en.png downloaded to directory baccat_en
+19-09-2019 07:20:45 INFO  FileProcessor:239 - Downloading file cat.png to directory baccat_en
+19-09-2019 07:20:46 INFO  FileProcessor:260 - File cat.png downloaded to directory baccat_en
+19-09-2019 07:20:46 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 07:20:46 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 07:20:46 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 07:20:46 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 07:21:03 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:21:03 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:21:04 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 07:21:04 INFO  RebusSequenceGenerator:348 - Creation of queries chain started...
+19-09-2019 07:21:04 INFO  RebusSequenceGenerator:132 - Rebus generated successfully
+19-09-2019 07:21:04 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:21:04 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 07:21:04 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file bat.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File bat.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file e_en.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File e_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file r_en.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File r_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file 2.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File 2.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file c_en.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File c_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file plus_en.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File plus_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file front_comma.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File front_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file i_en.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File i_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file bat.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File bat.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file back_comma.png to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:260 - File back_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:04 INFO  FileProcessor:239 - Downloading file bat.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File bat.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file e_en.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File e_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file r_en.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File r_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file 2.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File 2.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file c_en.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File c_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file plus_en.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File plus_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file front_comma.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File front_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file i_en.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File i_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file bat.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File bat.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file back_comma.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File back_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file bat.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File bat.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file back_comma.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File back_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file c_en.png to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:260 - File c_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:05 INFO  FileProcessor:239 - Downloading file plus_en.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File plus_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file cat.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File cat.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file front_comma.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File front_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file cat.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File cat.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file back_comma.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File back_comma.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file c_en.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File c_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file r_en.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File r_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file o_en.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File o_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file plus_en.png to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:260 - File plus_en.png downloaded to directory acrobat_en
+19-09-2019 07:21:06 INFO  FileProcessor:239 - Downloading file bat.png to directory acrobat_en
+19-09-2019 07:21:07 INFO  FileProcessor:260 - File bat.png downloaded to directory acrobat_en
+19-09-2019 07:21:07 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 07:21:07 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 07:21:07 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 07:21:07 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 07:21:37 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 07:46:45 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 07:46:49 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:46:49 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:46:49 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 07:46:49 ERROR RebusSequenceGenerator:88 - The databaseWords is empty, it is impossible to create a rebus!
+19-09-2019 07:55:18 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:55:18 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:55:18 INFO  RebusSequenceGenerator:70 - Generating rebus...
+19-09-2019 07:55:18 INFO  RebusSequenceGenerator:348 - Creation of queries chain started...
+19-09-2019 07:55:36 INFO  RebusSequenceGenerator:132 - Rebus generated successfully
+19-09-2019 07:55:36 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 07:55:36 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 07:55:36 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 07:57:37 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 07:57:37 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 07:57:37 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 08:00:05 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 08:00:05 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 08:00:12 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 08:00:12 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 08:00:12 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 08:01:47 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 08:01:47 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 08:02:22 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 08:02:22 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 08:05:19 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 08:05:19 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 08:05:27 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 08:05:35 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 08:05:40 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 08:05:40 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 08:05:40 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file 3.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File 3.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file plus.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File plus.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 08:05:42 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 08:05:43 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 08:05:43 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 08:05:43 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 08:05:43 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 08:05:43 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 08:06:35 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 08:06:35 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 08:06:35 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 21:58:44 INFO  RebusController:67 - Getting all possible languages...
+19-09-2019 21:58:54 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 21:58:54 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 21:58:54 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 21:58:54 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 21:58:54 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 21:58:54 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 21:58:55 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 21:58:55 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 21:58:55 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 21:58:55 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file 3.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File 3.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file plus.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File plus.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 21:58:56 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 21:58:56 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 21:58:57 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 21:58:57 INFO  RebusProcessor:161 - Rebus generating process finished successfully
+19-09-2019 21:59:08 INFO  RebusController:111 - Generating rebus query...
+19-09-2019 21:59:08 INFO  RebusProcessor:137 - Processing rebus generating...
+19-09-2019 21:59:08 INFO  RebusSequenceParser:74 - Parsing rebus sequence...
+19-09-2019 21:59:08 INFO  RebusSequenceParser:102 - Rebus sequence parsed successfully
+19-09-2019 21:59:08 INFO  FileProcessor:198 - Downloading files...
+19-09-2019 21:59:08 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 21:59:08 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 21:59:08 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 21:59:08 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:08 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 21:59:08 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:08 INFO  FileProcessor:239 - Downloading file 3.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File 3.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file plus.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File plus.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file e_en.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File e_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file r_en.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File r_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file 3.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File 3.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file equals_sign.png to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:260 - File equals_sign.png downloaded to directory bacteria_en
+19-09-2019 21:59:09 INFO  FileProcessor:239 - Downloading file c_en.png to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:260 - File c_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:239 - Downloading file plus.png to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:260 - File plus.png downloaded to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:239 - Downloading file front_comma.png to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:260 - File front_comma.png downloaded to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:239 - Downloading file i_en.png to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:260 - File i_en.png downloaded to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:239 - Downloading file bat.png to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:260 - File bat.png downloaded to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:239 - Downloading file back_comma.png to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:260 - File back_comma.png downloaded to directory bacteria_en
+19-09-2019 21:59:10 INFO  FileProcessor:222 - Files downloaded successfully
+19-09-2019 21:59:10 INFO  ImageProcessor:93 - Final image processing...
+19-09-2019 21:59:10 INFO  ImageProcessor:132 - Final image processed successfully
+19-09-2019 21:59:10 INFO  RebusProcessor:161 - Rebus generating process finished successfully
