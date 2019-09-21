@@ -1,7 +1,7 @@
 # rebus-generator-app
 Application on generating rebus on input word
 
-Now processing on deployment
+## Now processing on deployment
 
 # How it works: 
 - The word is read from the input
