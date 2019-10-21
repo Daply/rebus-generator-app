@@ -1,7 +1,8 @@
 # rebus-generator-app
 Application on generating rebus on input word
 
-## Now processing on deployment
+Deployed for a while on AWS EC2:
+http://ec2-13-53-129-223.eu-north-1.compute.amazonaws.com:8080/
 
 # How it works: 
 - The word is read from the input
