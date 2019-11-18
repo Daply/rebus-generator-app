@@ -2,6 +2,7 @@
 Application on generating rebus on input word
 
 Deployed for a while on AWS EC2
+ec2-13-53-212-223.eu-north-1.compute.amazonaws.com:8080
 
 # How it works: 
 - The word is read from the input
