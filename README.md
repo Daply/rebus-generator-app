@@ -1,7 +1,6 @@
 # rebus-generator-app
 Application on generating rebus on input word
 
-Deployed for a while on AWS EC2<br>
 http://rebusgenerator.online/
 
 # How it works: 
