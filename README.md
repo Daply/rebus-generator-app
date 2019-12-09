@@ -1,7 +1,7 @@
 # rebus-generator-app
 Application on generating rebus on input word
 
-http://rebusgenerator.online/
+<a href="ec2-13-53-212-223.eu-north-1.compute.amazonaws.com">Link</a>
 
 # How it works: 
 - The word is read from the input
