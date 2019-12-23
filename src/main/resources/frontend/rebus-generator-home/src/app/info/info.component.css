@@ -1,0 +1,36 @@
+#back
+{
+	color: rgb(236, 25, 236);
+}
+
+.back-container
+{
+    margin: 0 auto;
+	width: 900px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.center-img-td 
+{
+    text-align: center;
+    background-color: white;
+}
+
+#info-table
+{
+    margin: 0 auto;
+	width: 900px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.info-image
+{
+    margin: 10px;
+    height: auto;
+}

@@ -1,0 +1,76 @@
+<div class="main-container">
+	<div id="rebus-info" class="middle-container">
+		<a href="#" routerLink="/info"><p id="rules">Rebuses rules</p></a>
+	</div>
+	
+	<div id="rebus-generation" class="middle-container">
+      <div class="word-block">
+		<input #inputword type="text" id="word" class="form-control word-input" placeholder="Type any word" size="100">
+	  </div>
+	  <select #inputwordlang id="lang-block" class="browser-default custom-select">
+		<option [value]="lang" *ngFor="let lang of languages">{{lang}}</option>
+	</select>
+      <div id="generate-button-block">
+		 <button (click)="generateRebus()" class="btn btn-lg btn-primary">Generate rebus</button>
+	  </div>
+	</div>
+
+	<div *ngIf="generatingProcessStatus == 2">
+		<div id="rebus-image" class="middle-container">
+			<img [src]= 'image'/>
+		</div>
+		<div id="download-button" class="middle-container">
+			<button (click)="saveRebusImage()" class="btn btn-primary">Download image</button>
+	    </div>
+    </div> 
+	<div class="middle-container" *ngIf="generatingProcessStatus == 1">
+        <img class="loader" src='assets/loader.gif'/>
+	</div>
+	<div class="middle-container" *ngIf="generatingProcessStatus == 3">
+        <p class="sorry">We are sorry, something went wrong, we are on the way to fix it...</p>
+	</div>
+		
+
+    <div id="image-upload">
+
+		<div class="middle-container">
+			<p>Help to make rebus generator better - add picture with word that is drawn on it (1048 kbytes maximum)!</p>
+		</div>
+			
+		<div class="middle-container">
+		
+			<div id="word-block">
+				<input #newword type="text" class="form-control word-input" placeholder="Type what is on the image" size="100">
+			</div>
+			
+			<div id="form-block">
+				<form>
+					<div class="custom-file">
+						<input type="file" accept="image/png, image/jpeg"
+						       class="custom-file-input" id="customFile"
+								(change)="onFileChange($event)">
+						<label class="custom-file-label" for="customFile">{{filename}}</label>
+					</div>
+				</form>
+			</div>
+			
+			<select #newwordlang id="lang-block" class="browser-default custom-select">
+				<option [value]="lang" *ngFor="let lang of languages">{{lang}}</option>
+			</select>
+
+			<div id="upload-images-button">
+				<button (click)="uploadImage()" class="btn btn-lg btn-primary">Upload images</button>
+			</div>
+		
+		</div>
+	
+		<div class="middle-container" *ngIf="uploadMessage && uploadingImageStatus==1">
+			<p>Thank you very much for uploading!</p>
+		</div>
+		<div class="middle-container" *ngIf="!uploadMessage && uploadingImageStatus==1">
+			<p class="sorry">We are sorry, something went wrong :( We'll check this as soon as possible (check please if the image size doesn't exceed 1048 kbytes)</p>
+		</div>
+    </div>
+    
+</div>
+

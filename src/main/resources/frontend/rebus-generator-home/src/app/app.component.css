@@ -1,0 +1,52 @@
+.middle-container
+{
+	margin: 0 auto;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header
+{
+	background-color:#b3fa89; 
+	height: 60px;
+}
+
+#footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:#b3fa89; 
+    margin-bottom: 0;
+    height: 120px;
+    z-index: 1;
+}
+
+#images-info
+{
+    margin-right: 250px;
+}
+
+#iconfinder
+{
+    font-size: 15px;
+    color: fuchsia;
+}
+
+#contacts
+{
+    margin-left: 250px;
+}
+
+#email
+{
+    font-size: 15px;
+    color: fuchsia;
+}
+
+#github
+{
+    font-size: 15px;
+    color: orange;
+}
