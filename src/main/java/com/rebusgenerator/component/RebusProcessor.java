@@ -121,7 +121,7 @@ public class RebusProcessor {
 	 * @throws FileLoadingException 
 	 */
 	public String downloadAllImagesForRebus(String word, String lang, List<String> images) throws IOException, FileLoadingException {
-		String folderName = word + "_" + lang;
+		String folderName = "/" + word + "_" + lang;
 		return fileProcessingService.downloadFiles(images, folderName);
     }
 	

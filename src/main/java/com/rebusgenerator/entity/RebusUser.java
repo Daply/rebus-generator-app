@@ -15,8 +15,8 @@ import javax.persistence.Table;
  *
  */
 @Entity
-@Table(name = "user")
-public class User implements Serializable {
+@Table(name = "rebus_user")
+public class RebusUser implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	
@@ -34,14 +34,14 @@ public class User implements Serializable {
 	@Column(name = "role")
 	private String role;
 
-	public User(String username, String password, String role) {
+	public RebusUser(String username, String password, String role) {
 		super();
 		this.username = username;
 		this.password = password;
 		this.role = role;
 	}
 
-	public User() {
+	public RebusUser() {
 		super();
 	}
 

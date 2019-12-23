@@ -21,9 +21,9 @@ public interface LanguageRepository extends CrudRepository<Language, Long> {
     
     Optional<Language> findById(Long id);
     
-    @Query(value = "SELECT * FROM Language WHERE lang=:lang", nativeQuery = true)
+    @Query(value = "SELECT * FROM language WHERE lang=:lang", nativeQuery = true)
     Language findLanguageByLangAbbr(@Param("lang") String lang);
     
-    @Query(value = "SELECT lang FROM Language", nativeQuery = true)
+    @Query(value = "SELECT lang FROM language", nativeQuery = true)
     List<String> findAllLanguages();
 }

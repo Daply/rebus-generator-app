@@ -35,7 +35,7 @@ private static final long serialVersionUID = 1L;
 	@Column(name = "syllable")
 	private String syllable;
 	
-	@ManyToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
+	@ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "syllable_lang", referencedColumnName = "language_id")
 	private Language syllableLang;
 	

@@ -32,10 +32,10 @@ public class Language implements Serializable {
 	@Column(name = "lang")
 	private String lang;
 	
-	@OneToMany(fetch = FetchType.LAZY, mappedBy = "syllableLang", cascade = CascadeType.MERGE)
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "syllableLang", cascade = CascadeType.ALL)
 	private List<Syllable> syllables;
 	
-	@OneToMany(fetch = FetchType.LAZY, mappedBy = "wordLang", cascade = CascadeType.MERGE)
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "wordLang", cascade = CascadeType.ALL)
 	private List<RebusImagePuzzle> words;
 	
 	public Language() {
@@ -62,4 +62,21 @@ public class Language implements Serializable {
 	public void setLang(String lang) {
 		this.lang = lang;
 	}
+
+	public List<Syllable> getSyllables() {
+		return syllables;
+	}
+
+	public void setSyllables(List<Syllable> syllables) {
+		this.syllables = syllables;
+	}
+
+	public List<RebusImagePuzzle> getWords() {
+		return words;
+	}
+
+	public void setWords(List<RebusImagePuzzle> words) {
+		this.words = words;
+	}
+	
 }

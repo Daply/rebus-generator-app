@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.rebusgenerator.entity.Language;
-import com.rebusgenerator.entity.User;
+import com.rebusgenerator.entity.RebusUser;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -21,9 +21,9 @@ public class UserRepositoryIntegrationTest {
 	
 	@Test
     public void whenFindLanguage_thenReturnLanguage() {
-		User expected = new User("me", "123", "USER");
+		RebusUser expected = new RebusUser("me", "123", "USER");
 		userRepository.save(expected);
-        User actual = userRepository.findByUsername("me");
+        RebusUser actual = userRepository.findByUsername("me");
         userRepository.delete(expected);
         assertThat(actual.getPassword(), is(expected.getPassword()));
     }

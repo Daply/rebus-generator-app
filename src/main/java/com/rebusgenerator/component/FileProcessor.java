@@ -1,5 +1,6 @@
 package com.rebusgenerator.component;
 
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -106,7 +107,37 @@ public class FileProcessor {
 	 * @throws IOException
 	 * @throws FileLoadingException
 	 */
-	public boolean uploadFile(String word, String lang, MultipartFile file) throws IOException, FileLoadingException {
+	public boolean uploadNewImageForReview(String word, String lang, MultipartFile file) throws IOException, FileLoadingException {
+		
+		LOGGER.info("Uploading file for review ...");
+		
+		if (word == null || lang == null || file == null) {
+			LOGGER.error("Some of arguments are null!");
+			if (word == null && lang == null && file == null)
+				throw new FileLoadingException("all arguments are null");
+			else if (word == null)
+				throw new FileLoadingException("word is null");
+			else if (lang == null)
+				throw new FileLoadingException("lang is null");
+			else if (file == null)
+				throw new FileLoadingException("file is null");
+		}
+		
+		return uploadFile("review/" + word + "_" + generateHashKey(10), lang, file, bucketName);
+	}
+	
+	/**
+	 * Upload new image to storage
+	 * 
+	 * @param word - word, associated with image
+	 * @param lang - word language
+	 * @param file - image
+	 * @return true if uploaded successfully,
+	 *         otherwise false
+	 * @throws IOException
+	 * @throws FileLoadingException
+	 */
+	public boolean uploadNewImage(String word, String lang, MultipartFile file) throws IOException, FileLoadingException {
 		
 		LOGGER.info("Uploading file...");
 		
@@ -121,8 +152,40 @@ public class FileProcessor {
 			else if (file == null)
 				throw new FileLoadingException("file is null");
 		}
+
+		return uploadFile(word, lang, file, bucketName);
+	}
+	
+	/**
+	 * Upload new image to storage
+	 * 
+	 * @param word - word, associated with image
+	 * @param lang - word language
+	 * @param file - image
+	 * @return true if uploaded successfully,
+	 *         otherwise false
+	 * @throws IOException
+	 * @throws FileLoadingException
+	 */
+	public boolean uploadFile(String word, String lang, MultipartFile file, String bucketName) throws IOException, FileLoadingException {
 		
-		if (!file.isEmpty()) {
+		LOGGER.info("Uploading file...");
+		
+		if (word == null || lang == null || file == null || bucketName == null) {
+			LOGGER.error("Some of arguments are null!");
+			if (word == null && lang == null && file == null)
+				throw new FileLoadingException("all arguments are null");
+			else if (word == null)
+				throw new FileLoadingException("word is null");
+			else if (lang == null)
+				throw new FileLoadingException("lang is null");
+			else if (file == null)
+				throw new FileLoadingException("file is null");
+			else if (bucketName == null)
+				throw new FileLoadingException("bucketName is null");
+		}
+		
+		if (!file.isEmpty() && !bucketName.isEmpty()) {
 			// temporary save uploaded file from client to directory of images
 			File newFile = saveUploadedFile(file, getTemporaryPath(), file.getOriginalFilename());
 			if (newFile != null && newFile.exists()) {
@@ -173,10 +236,8 @@ public class FileProcessor {
 		File newFile = null;
         if (!file.isEmpty()) {
             byte[] bytes = file.getBytes();
-            newFile = new File(path + fileName);
-            OutputStream os = new FileOutputStream(newFile); 
-            os.write(bytes); 
-            os.close();
+            newFile = new File(path + "/" + fileName);           
+            FileUtils.copyInputStreamToFile(new ByteArrayInputStream(bytes), newFile);
         }
         
         LOGGER.info("Uploaded file saved");

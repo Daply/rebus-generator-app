@@ -145,8 +145,8 @@ public class RebusSequenceGeneratorTest {
 	public void testCreateSequenceOfChangesToGetOneWrdFromAnotherWithDifferentArguments() {
 		RebusSequenceGenerator rebusGeneratorAlgorithm = new RebusSequenceGenerator();
 		List<List<String>> expected = new ArrayList<List<String>>();
-		expected.add(Arrays.asList("hello", "[middle insert] 2=r"));
-		expected.add(Arrays.asList("satisfaction", "[middle insert] 3=r",
+		expected.add(Arrays.asList("hello", "[middle insert] 3=r"));
+		expected.add(Arrays.asList("satisfaction", "[middle insert] 4=r",
 				"[middle change] s=m", "[middle change] f=e", "[middle delete] a",
 				"[back delete]"));
 		expected.add(Arrays.asList("[front delete]", "esssseerrttt", 

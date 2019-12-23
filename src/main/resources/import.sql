@@ -1,4 +1,4 @@
-INSERT INTO user (username, password, role) VALUES ('admin', 'admin', 'ADMIN');
+INSERT INTO rebus_user (username, password, role) VALUES ('adminimus', '$2a$10$4OVXph1d4hmTvKOkvZ9Le.8hpZeDemmwetEDpUlQK3yexXJNtqIm.', 'ADMIN');
 
 INSERT INTO language (lang) VALUES ('en');
 

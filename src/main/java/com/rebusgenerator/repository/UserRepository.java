@@ -4,12 +4,12 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 
-import com.rebusgenerator.entity.User;
+import com.rebusgenerator.entity.RebusUser;
 
-public interface UserRepository extends CrudRepository<User, Long> {
+public interface UserRepository extends CrudRepository<RebusUser, Long> {
     
-    @Query(value = "SELECT * FROM user u WHERE u.username=:username", 
+    @Query(value = "SELECT * FROM rebus_user u WHERE u.username=:username", 
             nativeQuery = true)
-    User findByUsername(@Param("username") String username);     
+    RebusUser findByUsername(@Param("username") String username);     
 
 }

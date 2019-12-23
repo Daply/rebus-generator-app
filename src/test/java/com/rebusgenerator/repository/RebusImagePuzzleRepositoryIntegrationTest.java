@@ -45,11 +45,10 @@ public class RebusImagePuzzleRepositoryIntegrationTest {
     
     @Test
     public void whenFindImageByWordAndLang_thenReturnImageName() {
-    	RebusImagePuzzle rebusImagePuzzle = new RebusImagePuzzle();
-    	rebusImagePuzzle.setImageWord("dfkfnkjf");
+    	Language lang = languageRepository.findLanguageByLangAbbr("en");
+    	RebusImagePuzzle rebusImagePuzzle = new RebusImagePuzzle("dfkfnkjf", "dfkfnkjf_en.png");
     	rebusImagePuzzle.setImageWordType(ImageWordType.LETTER);
-    	rebusImagePuzzle.setWordLang(languageRepository.findLanguageByLangAbbr("en"));
-    	rebusImagePuzzle.setImageName("dfkfnkjf_en.png");
+    	rebusImagePuzzle.setWordLang(lang);
     	String expected = "dfkfnkjf_en.png";
 
     	rebusImagePuzzleRepository.save(rebusImagePuzzle);

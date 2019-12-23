@@ -21,6 +21,6 @@ public interface SyllableRepository extends CrudRepository<Syllable, Long> {
     
     Optional<Syllable> findById(Long id);
     
-    @Query(value = "SELECT * FROM Syllable s WHERE s.syllable=:syllable", nativeQuery = true)
+    @Query(value = "SELECT * FROM syllable s WHERE s.syllable=:syllable", nativeQuery = true)
     Syllable findSyllable(@Param("syllable") String syllable);
 }

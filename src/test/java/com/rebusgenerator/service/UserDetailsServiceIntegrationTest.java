@@ -12,7 +12,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.rebusgenerator.entity.User;
+import com.rebusgenerator.entity.RebusUser;
 import com.rebusgenerator.repository.UserRepository;
 
 @RunWith(SpringRunner.class)
@@ -30,8 +30,8 @@ public class UserDetailsServiceIntegrationTest {
 	
 	@Before
     public void setUp() {
-		User user = new User("me", "123me", "USER");
-		User admin = new User("admin", "admin", "ADMIN");
+		RebusUser user = new RebusUser("me", "123me", "USER");
+		RebusUser admin = new RebusUser("admin", "admin", "ADMIN");
 
         //
 		Mockito.when(userRepository.findByUsername(user.getUsername())).thenReturn(user);

@@ -6,7 +6,7 @@ import { Router } from '@angular/router';
 @Injectable()
 export class AdminService {
 
-  baseUrl: string = "http://localhost:8080";
+  baseUrl: string = "http://ec2-13-53-212-223.eu-north-1.compute.amazonaws.com:8080";
   headersValue = new HttpHeaders({
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': this.baseUrl});

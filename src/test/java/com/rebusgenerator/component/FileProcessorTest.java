@@ -44,7 +44,7 @@ public class FileProcessorTest {
 	@Test
 	public void testUploadFileWithNullArguments() throws IOException, FileLoadingException {
 		FileLoadingException e = assertThrows(FileLoadingException.class, () -> {
-			fileProcessingService.uploadFile(null, null, null);
+			fileProcessingService.uploadFile(null, null, null, null);
 		});
 		assertTrue(e.getMessage().contains("Exceptional situation in file loading: all arguments are null"));
 	}

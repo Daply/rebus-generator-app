@@ -334,11 +334,12 @@ public class ImageProcessor {
 	
 	public void deleteAllImages(String finalImageName, String directory) {
 		File dir = new File(directory);
-		for (File file: dir.listFiles()) { 
-		    if (!file.getName().equals(finalImageName)) { 
-		        file.delete();
-		    }
-		}
+		dir.delete();
+//		for (File file: dir.listFiles()) { 
+//		    if (!file.getName().equals(finalImageName)) { 
+//		        file.delete();
+//		    }
+//		}
 	}
 	
 	public String renameImage(String currentImageName, String newImageName, String directory) throws IOException {

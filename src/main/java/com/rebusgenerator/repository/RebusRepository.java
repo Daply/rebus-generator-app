@@ -21,6 +21,6 @@ public interface RebusRepository extends CrudRepository<Rebus, Long> {
     
     Optional<Rebus> findById(Long id);
     
-    @Query(value = "SELECT * FROM Rebus r WHERE r.rebus_word=:word", nativeQuery = true)
+    @Query(value = "SELECT * FROM rebus r WHERE r.rebus_word=:word", nativeQuery = true)
     Rebus findRebus(@Param("word") String word);
 }

@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.rebusgenerator.entity.User;
+import com.rebusgenerator.entity.RebusUser;
 import com.rebusgenerator.repository.UserRepository;
 
 /**
@@ -28,7 +28,7 @@ public class UserDetailsServiceImpl implements UserDetailsService{
     @Override
     @Transactional(readOnly = true)
     public UserDetails loadUserByUsername(String username) {
-        User user = userRepository.findByUsername(username);
+        RebusUser user = userRepository.findByUsername(username);
         if (user == null) return null;
 
         Set<GrantedAuthority> grantedAuthorities = new HashSet<>();

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.rebusgenerator.entity.User;
+import com.rebusgenerator.entity.RebusUser;
 import com.rebusgenerator.service.UserService;
 
 /**
@@ -23,7 +23,7 @@ public class LoginController {
 	private UserService userService;
 	
 	@RequestMapping("/admin")
-    public boolean login(@RequestBody User admin) throws Exception {
+    public boolean login(@RequestBody RebusUser admin) throws Exception {
 		return userService.login(admin.getUsername(), admin.getPassword());
     }
 

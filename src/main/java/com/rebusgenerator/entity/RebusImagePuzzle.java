@@ -37,7 +37,7 @@ public class RebusImagePuzzle implements Serializable {
 	@Column(name = "image_word")
 	private String imageWord;
 	
-	@ManyToOne(fetch = FetchType.LAZY, cascade = CascadeType.MERGE)
+	@ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "word_lang", referencedColumnName = "language_id")
 	private Language wordLang;
 	
@@ -47,7 +47,7 @@ public class RebusImagePuzzle implements Serializable {
 	@Column(name = "image_word_type")
 	private ImageWordType ImageWordType;
 	
-	@ManyToMany(fetch = FetchType.LAZY, cascade = { CascadeType.ALL, CascadeType.MERGE })
+	@ManyToMany(fetch = FetchType.LAZY)
     @JoinTable(
         name = "word_syllable", 
         joinColumns = { @JoinColumn(name = "rebus_image_puzzle_id") }, 
